@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6da7d9bc8c9a82321450b6b4273d1746b6cade21">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-b47b0fc7d1b6d0020403362a441e8bc3f091d5da.jar" />
+    </item>
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ec6f06847bccfe30fb8f8f75ce888721e4fd275">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-be2ea2f27a276f7a3c627508ef17d7440ae9087a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-53b61eb05756d0b5446e0041cde54059d115b2bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-29080a144f23187d35a05d74a02010460867742e.jar" />
+    </item>
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55ecd0b0517650a2cffd06137a40de8af3bbbde3">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-b914b452dac094ecceb2ec59299e881242484e61.jar" />
+    </item>
+    <item
+        jar="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\mohai\Downloads\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-db5a406db450b6a47170b97a06558fc5b57d0fd7.jar" />
+    </item>
+
+</items>
